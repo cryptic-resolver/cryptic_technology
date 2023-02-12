@@ -1,3 +1,12 @@
 [adas]
 name = "ADAS"
 desc = "Advanced Driver Assistance Systems"
+
+[abs]
+name = "ABS"
+desc = "Anti-lock Braking System"
+more = "It prevents the wheels from locking when you apply maximum brake pressure."
+
+[aeb]
+name = "AEB"
+desc = "Automatic Emergency Braking"
